@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
+site_name: 'Weston's ESIIL Training'
+site_description: 'Training for innovation summit'
+site_author: Weston Gonor
 site_url: https://cu-esiil.github.io/Postdoc_OASIS
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: ESIIL_Training_Repo
+repo_url: https://github.com/wgonor/ESIIL_Training_Repo
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
