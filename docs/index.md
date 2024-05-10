@@ -1,6 +1,6 @@
-# [Your Name]
+# Weston Gonor
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the Weston Gonor repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as my main training for the ESIIL Innvovation Summit. This is my first time ever coding and I think it is going well so far!
 
 ## Your Project
 
